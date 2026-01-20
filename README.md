@@ -1,60 +1,69 @@
 <!-- ===================== BANNER ===================== -->
-![Banner]([https://i.ibb.co/6bQ4vZQ/github-banner.png](https://ibb.co.com/KzjqTwNK))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasinrayhanabed/assets/main/github-banner.png" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Yasin Rayhan Abed</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
 
 <p align="center">
-📍 Dhaka, Bangladesh <br/>
-📧 yasinrayhanabed@gmail.com | 📞 01715312328
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp;
+  📧 yasinrayhanabed@gmail.com &nbsp;|&nbsp;
+  📞 01715312328
+</p>
+
+<p align="center">
+  <a href="https://github.com/yasinrayhanabed">
+    <img src="https://img.shields.io/github/followers/yasinrayhanabed?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate Full Stack Web Developer with a strong interest in building modern, scalable, and user-friendly web applications.  
-I enjoy working across both frontend and backend technologies to create complete digital solutions.  
-I am always eager to learn new tools and improve my problem-solving and development skills.
+I am a passionate **Full Stack Web Developer** who loves building modern, scalable, and user-friendly web applications.  
+I enjoy working on both frontend and backend technologies to deliver complete digital solutions.  
+Always curious to learn new technologies and improve my problem-solving skills through real-world projects.
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 What I'm Currently Doing
 
-- 🌱 Exploring **Next.js & Advanced React**
-- 💻 Building a **Tourism Website**
-- 🔧 Improving **Backend & API Development**
-- 🎯 Practicing **Clean Code & Best Practices**
+- 🌱 Learning **Next.js & Advanced React**
+- 🧳 Developing a **Tourism Website**
+- ⚙️ Improving **Backend & REST API Development**
+- 🎯 Writing **Clean, Maintainable Code**
 
 ---
 
 ## 🖥️ Frontend Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=light" />
 </p>
 
 ---
 
 ## 🔧 Backend Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light" />
 </p>
 
 ---
 
 ## 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=light" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/yasinrayhanabed">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
@@ -62,29 +71,32 @@ I am always eager to learn new tools and improve my problem-solving and developm
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinrayhanabed&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinrayhanabed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinrayhanabed&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinrayhanabed&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrayhanabed&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinrayhanabed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 What I Focus On
+## 🏆 What Makes Me Strong
 
-- ✅ Clean & Responsive UI
-- ✅ Full Stack Web Applications
-- ✅ Real-world Project Experience
-- ✅ Continuous Learning & Growth
+✔️ Modern Full Stack Development  
+✔️ Clean & Responsive UI  
+✔️ REST API Integration  
+✔️ Real-World Project Experience  
+✔️ Continuous Learning Mindset  
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile!**
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile! ⭐
+</p>
