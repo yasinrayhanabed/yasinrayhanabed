@@ -1,5 +1,5 @@
 <!-- ===================== BANNER ===================== -->
-![Banner](https://i.ibb.co/6bQ4vZQ/github-banner.png)
+![Banner]([https://i.ibb.co/6bQ4vZQ/github-banner.png](https://ibb.co.com/KzjqTwNK))
 
 <h1 align="center">Hi 👋, I'm Yasin Rayhan Abed</h1>
 <h3 align="center">Full Stack Web Developer</h3>
